@@ -1,6 +1,6 @@
 CrazySaiyajin/CrazyHjonk \
 Working on MC Plugins \
-CrazyHjönk#0001
+Discord: @crazyhjonk
 
 <!---
 CrazySaiyajin/CrazySaiyajin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
