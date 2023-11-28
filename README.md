@@ -1,5 +1,5 @@
 CrazySaiyajin/CrazyHjonk \
-Working on MC Plugins \
+Working on MC Plugins @ StoneworksMC \
 Discord: @crazyhjonk
 
 <!---
